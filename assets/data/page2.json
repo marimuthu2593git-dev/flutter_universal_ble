@@ -1,0 +1,68 @@
+[
+  {
+    "durationinsec": 30,
+    "timestamp": "2025-07-25T10:42:24.909821",
+    "peak": 75,
+    "peakAthour": 10,
+    "peakAtMin": 42,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 60,
+    "timestamp": "2025-07-25T10:42:36.908399",
+    "peak": 81,
+    "peakAthour": 10,
+    "peakAtMin": 42,
+    "peakAtSec": 36
+  },
+  {
+    "durationinsec": 90,
+    "timestamp": "2025-07-25T10:43:24.882879",
+    "peak": 94,
+    "peakAthour": 10,
+    "peakAtMin": 43,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 120,
+    "timestamp": "2025-07-25T10:43:30.903432",
+    "peak": 102,
+    "peakAthour": 10,
+    "peakAtMin": 43,
+    "peakAtSec": 30
+  },
+
+  {
+    "durationinsec": 150,
+    "timestamp": "2025-07-25T10:43:30.903432",
+    "peak": 98,
+    "peakAthour": 10,
+    "peakAtMin": 43,
+    "peakAtSec": 50
+  },
+  {
+    "durationinsec": 180,
+    "timestamp": "2025-07-25T10:43:30.903432",
+    "peak": 108,
+    "peakAthour": 10,
+    "peakAtMin": 44,
+    "peakAtSec": 10
+  },
+  {
+    "durationinsec": 210,
+    "timestamp": "2025-07-25T10:43:30.903432",
+    "peak": 106,
+    "peakAthour": 10,
+    "peakAtMin": 44,
+    "peakAtSec": 25
+  },
+  {
+    "durationinsec": 240,
+    "timestamp": "2025-07-25T10:43:30.903432",
+    "peak": 100,
+    "peakAthour": 10,
+    "peakAtMin": 44,
+    "peakAtSec": 50
+  }
+
+]

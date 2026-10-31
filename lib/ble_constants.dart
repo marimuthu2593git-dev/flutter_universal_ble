@@ -1,0 +1,11 @@
+// const String ServiceUUID = "6e400001-b5a3-f393-e0a9-e50e24dcca9e";
+// const String WriteCharacteristicUUID = "6e400002-b5a3-f393-e0a9-e50e24dcca9e";
+// const String NotifyCharacteristicUUID = "6e400003-b5a3-f393-e0a9-e50e24dcca9e";
+const String ServiceUUID = "6e40fff0-b5a3-f393-e0a9-e50e24dcca9e";
+const String WriteCharacteristicUUID = "6e400002-b5a3-f393-e0a9-e50e24dcca9e";
+const String NotifyCharacteristicUUID = "6e400003-b5a3-f393-e0a9-e50e24dcca9e";
+// private string serviceUUID = "6e40fff0-b5a3-f393-e0a9-e50e24dcca9e";
+// private string writeCharUUID = "6e400002-b5a3-f393-e0a9-e50e24dcca9e";
+// private string notifyCharUUID = "6e400003-b5a3-f393-e0a9-e50e24dcca9e";
+// const String BLENAMES = "H59_F002";
+String BLENAMES = "H59_";

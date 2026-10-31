@@ -1,0 +1,306 @@
+[
+  {
+    "durationinsec": 30,
+    "timestamp": "2025-07-25T10:42:24.909821",
+    "peak": 91,
+    "peakAthour": 10,
+    "peakAtMin": 42,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 60,
+    "timestamp": "2025-07-25T10:42:54.909821",
+    "peak": 92,
+    "peakAthour": 10,
+    "peakAtMin": 42,
+    "peakAtSec": 54
+  },
+  {
+    "durationinsec": 90,
+    "timestamp": "2025-07-25T10:43:24.909821",
+    "peak": 102,
+    "peakAthour": 10,
+    "peakAtMin": 43,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 120,
+    "timestamp": "2025-07-25T10:43:54.909821",
+    "peak": 92,
+    "peakAthour": 10,
+    "peakAtMin": 43,
+    "peakAtSec": 54
+  },
+  {
+    "durationinsec": 150,
+    "timestamp": "2025-07-25T10:44:24.909821",
+    "peak": 102,
+    "peakAthour": 10,
+    "peakAtMin": 44,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 180,
+    "timestamp": "2025-07-25T10:44:54.909821",
+    "peak": 102,
+    "peakAthour": 10,
+    "peakAtMin": 44,
+    "peakAtSec": 54
+  },
+  {
+    "durationinsec": 210,
+    "timestamp": "2025-07-25T10:45:24.909821",
+    "peak": 103,
+    "peakAthour": 10,
+    "peakAtMin": 45,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 240,
+    "timestamp": "2025-07-25T10:45:54.909821",
+    "peak": 107,
+    "peakAthour": 10,
+    "peakAtMin": 45,
+    "peakAtSec": 54
+  },
+  {
+    "durationinsec": 270,
+    "timestamp": "2025-07-25T10:46:24.909821",
+    "peak": 110,
+    "peakAthour": 10,
+    "peakAtMin": 46,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 300,
+    "timestamp": "2025-07-25T10:46:54.909821",
+    "peak": 107,
+    "peakAthour": 10,
+    "peakAtMin": 46,
+    "peakAtSec": 54
+  },
+  {
+    "durationinsec": 330,
+    "timestamp": "2025-07-25T10:47:24.909821",
+    "peak": 108,
+    "peakAthour": 10,
+    "peakAtMin": 47,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 360,
+    "timestamp": "2025-07-25T10:47:54.909821",
+    "peak": 106,
+    "peakAthour": 10,
+    "peakAtMin": 47,
+    "peakAtSec": 54
+  },
+  {
+    "durationinsec": 390,
+    "timestamp": "2025-07-25T10:48:24.909821",
+    "peak": 105,
+    "peakAthour": 10,
+    "peakAtMin": 48,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 420,
+    "timestamp": "2025-07-25T10:48:54.909821",
+    "peak": 107,
+    "peakAthour": 10,
+    "peakAtMin": 48,
+    "peakAtSec": 54
+  },
+  {
+    "durationinsec": 450,
+    "timestamp": "2025-07-25T10:49:24.909821",
+    "peak": 102,
+    "peakAthour": 10,
+    "peakAtMin": 49,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 480,
+    "timestamp": "2025-07-25T10:49:54.909821",
+    "peak": 100,
+    "peakAthour": 10,
+    "peakAtMin": 49,
+    "peakAtSec": 54
+  },
+  {
+    "durationinsec": 510,
+    "timestamp": "2025-07-25T10:50:24.909821",
+    "peak": 104,
+    "peakAthour": 10,
+    "peakAtMin": 50,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 540,
+    "timestamp": "2025-07-25T10:50:54.909821",
+    "peak": 103,
+    "peakAthour": 10,
+    "peakAtMin": 50,
+    "peakAtSec": 54
+  },
+  {
+    "durationinsec": 570,
+    "timestamp": "2025-07-25T10:51:24.909821",
+    "peak": 110,
+    "peakAthour": 10,
+    "peakAtMin": 51,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 600,
+    "timestamp": "2025-07-25T10:51:54.909821",
+    "peak": 105,
+    "peakAthour": 10,
+    "peakAtMin": 51,
+    "peakAtSec": 54
+  },
+  {
+    "durationinsec": 630,
+    "timestamp": "2025-07-25T10:52:24.909821",
+    "peak": 109,
+    "peakAthour": 10,
+    "peakAtMin": 52,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 660,
+    "timestamp": "2025-07-25T10:52:54.909821",
+    "peak": 112,
+    "peakAthour": 10,
+    "peakAtMin": 52,
+    "peakAtSec": 54
+  },
+  {
+    "durationinsec": 690,
+    "timestamp": "2025-07-25T10:53:24.909821",
+    "peak": 108,
+    "peakAthour": 10,
+    "peakAtMin": 53,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 720,
+    "timestamp": "2025-07-25T10:53:54.909821",
+    "peak": 98,
+    "peakAthour": 10,
+    "peakAtMin": 53,
+    "peakAtSec": 54
+  },
+  {
+    "durationinsec": 750,
+    "timestamp": "2025-07-25T10:54:24.909821",
+    "peak": 98,
+    "peakAthour": 10,
+    "peakAtMin": 54,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 780,
+    "timestamp": "2025-07-25T10:54:54.909821",
+    "peak": 103,
+    "peakAthour": 10,
+    "peakAtMin": 54,
+    "peakAtSec": 54
+  },
+  {
+    "durationinsec": 810,
+    "timestamp": "2025-07-25T10:55:24.909821",
+    "peak": 109,
+    "peakAthour": 10,
+    "peakAtMin": 55,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 840,
+    "timestamp": "2025-07-25T10:55:54.909821",
+    "peak": 108,
+    "peakAthour": 10,
+    "peakAtMin": 55,
+    "peakAtSec": 54
+  },
+  {
+    "durationinsec": 870,
+    "timestamp": "2025-07-25T10:56:24.909821",
+    "peak": 107,
+    "peakAthour": 10,
+    "peakAtMin": 56,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 900,
+    "timestamp": "2025-07-25T10:56:54.909821",
+    "peak": 113,
+    "peakAthour": 10,
+    "peakAtMin": 56,
+    "peakAtSec": 54
+  },
+  {
+    "durationinsec": 930,
+    "timestamp": "2025-07-25T10:57:24.909821",
+    "peak": 111,
+    "peakAthour": 10,
+    "peakAtMin": 57,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 960,
+    "timestamp": "2025-07-25T10:57:54.909821",
+    "peak": 105,
+    "peakAthour": 10,
+    "peakAtMin": 57,
+    "peakAtSec": 54
+  },
+  {
+    "durationinsec": 990,
+    "timestamp": "2025-07-25T10:58:24.909821",
+    "peak": 101,
+    "peakAthour": 10,
+    "peakAtMin": 58,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 1020,
+    "timestamp": "2025-07-25T10:58:54.909821",
+    "peak": 100,
+    "peakAthour": 10,
+    "peakAtMin": 58,
+    "peakAtSec": 54
+  },
+  {
+    "durationinsec": 1050,
+    "timestamp": "2025-07-25T10:59:24.909821",
+    "peak": 98,
+    "peakAthour": 10,
+    "peakAtMin": 59,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 1080,
+    "timestamp": "2025-07-25T10:59:54.909821",
+    "peak": 99,
+    "peakAthour": 10,
+    "peakAtMin": 59,
+    "peakAtSec": 54
+  },
+  {
+    "durationinsec": 1110,
+    "timestamp": "2025-07-25T11:00:24.909821",
+    "peak": 98,
+    "peakAthour": 11,
+    "peakAtMin": 0,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 1140,
+    "timestamp": "2025-07-25T11:00:54.909821",
+    "peak": 99,
+    "peakAthour": 11,
+    "peakAtMin": 0,
+    "peakAtSec": 54
+  }
+]

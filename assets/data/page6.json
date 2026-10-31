@@ -1,0 +1,34 @@
+[
+  {
+    "durationinsec": 30,
+    "timestamp": "2025-07-25T10:42:24.909821",
+    "peak": 94,
+    "peakAthour": 10,
+    "peakAtMin": 42,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 60,
+    "timestamp": "2025-07-25T10:42:36.908399",
+    "peak": 108,
+    "peakAthour": 10,
+    "peakAtMin": 42,
+    "peakAtSec": 36
+  },
+  {
+    "durationinsec": 90,
+    "timestamp": "2025-07-25T10:43:24.882879",
+    "peak": 126,
+    "peakAthour": 10,
+    "peakAtMin": 43,
+    "peakAtSec": 24
+  },
+  {
+    "durationinsec": 120,
+    "timestamp": "2025-07-25T10:43:30.903432",
+    "peak": 135,
+    "peakAthour": 10,
+    "peakAtMin": 43,
+    "peakAtSec": 30
+  }
+]
